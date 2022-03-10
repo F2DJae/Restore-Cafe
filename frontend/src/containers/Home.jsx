@@ -10,7 +10,7 @@ import { getItems } from "../reducks/items/selectors";
 import { getCarts, getSubtotal } from "../reducks/carts/selectors";
 import { fetchFromLocalStorage } from "../reducks/carts/operations";
 import queryString from "query-string";
-import brush from '../assets/img/brush.svg';
+import brush from '../assets/img/divider.svg';
 
 const Home = () => {
   const parsed = queryString.parse(window.location.search);

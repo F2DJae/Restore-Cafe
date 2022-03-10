@@ -1,5 +1,5 @@
 import React from "react";
-import ImgLogo from "../../assets/img/footer-logo.svg";
+import ImgLogo from "../../assets/img/logo.svg";
 
 const Footer = ({ price, showCartList, setShowCartList }) => {
   return (
