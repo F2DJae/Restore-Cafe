@@ -171,7 +171,6 @@ header img.white-border {
 }
 .text p {
   font-size: 60px;
-  color: #fff;
   font-weight: 600;
 }
 .text span {
@@ -313,7 +312,6 @@ footer button.link-button {
 }
 .content .popular-recipes img {
   padding: 0px 0px 10px 0px;
-  width: 100%;
 }
 
 /****************************
