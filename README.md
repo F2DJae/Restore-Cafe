@@ -1,16 +1,16 @@
-# Forum App in React & Redux + Django
+# Restore Cafe
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+Restore cafe is we development project .Completly build with react and react in frontend 
+and backend with dajngo.It is aresturant Menu card wehre you can add your order and can show it to waiter.
 ```
 
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-rupesh.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://restore-cafe-jae-frontend.herokuapp.com//) here!!
 
-Check out [API LIVE DEMO](https://backend-rupesh.herokuapp.com/) here!!
 
 ## Tech used
 
