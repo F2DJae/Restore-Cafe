@@ -9,7 +9,7 @@ and backend with dajngo.It is aresturant Menu card wehre you can add your order 
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://restore-cafe-jae-frontend.herokuapp.com//) here!!
+Check out [FRONTEND LIVE DEMO](https://restore-cafe-jae-frontend.herokuapp.com/) here!!
 
 
 ## Tech used
